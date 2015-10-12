@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "java-bean-generator:toggle"
+    "atom-workspace": ["java-bean-generator:generate","java-bean-generator:add"]
   },
   "repository": "https://github.com/atom/java-bean-generator",
   "license": "MIT",

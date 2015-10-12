@@ -13,8 +13,12 @@
       'label': 'java-bean-generator'
       'submenu': [
         {
-          'label': 'Toggle'
-          'command': 'java-bean-generator:toggle'
+          'label': 'Generate'
+          'command': 'java-bean-generator:generate'
+        },
+        {
+          'label': 'Add'
+          'command': 'java-bean-generator:add'
         }
       ]
     ]
