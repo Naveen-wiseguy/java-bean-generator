@@ -4,4 +4,4 @@ The package helps us develop java beans quickly with minimal typing. It automate
 
 Toggle keys : Ctrl+Alt+j - to generate a bean, Ctrl+Alt+k - to add some properties
 
-![A screenshot of your package](/Screenshot1.png ?raw=true "Screenshot of Java bean generator")
+![A screenshot of your package](/Screenshot1.png "Screenshot of Java bean generator")
